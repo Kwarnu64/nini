@@ -1,0 +1,6 @@
+{
+  "name": "Kwar Nu & Jain Moe - Anniversary",
+  "description": "A romantic 1 year 1 month anniversary celebration website for Kwar Nu and Jain Moe (July 21, 2025 - August 21, 2026), featuring live flowing light effects, automated emoji streams, memory timeline, love letters, scrapbook gallery, and interactive couple features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
